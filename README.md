@@ -1,5 +1,5 @@
 <div align="center">
-      <a href="https://dev.to/yagopeixinho/hello-world-mas-em-uma-web-api-com-net-8-1jp6-temp-slug-4672107?preview=3ae07a93613da5d714c9d72db668e34b0b94a669c130e8eb031de5e38e748d7e33a79771266fb7bca7ba2221ff0c653e792ff4fa43c2215645562425" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/240px-Microsoft_.NET_logo.svg.png" align="center" width="120px"/></a>
+      <a href="https://dev.to/yagopeixinho/hello-world-mas-em-uma-web-api-com-net-8-1jp6-temp-slug-4672107?preview=3ae07a93613da5d714c9d72db668e34b0b94a669c130e8eb031de5e38e748d7e33a79771266fb7bca7ba2221ff0c653e792ff4fa43c2215645562425" target="_blank"><img src="https://img.icons8.com/color/1200/net-framework.jpg" align="center" width="120px"/></a>
 </div>
 
 <h4 align="center">Uma Introdução ao Essencial com Entity Framework e SQLite.</h4>
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <a href="https://dev.to/yagopeixinho/hello-world-mas-em-uma-web-api-com-net-8-1jp6-temp-slug-4672107?preview=3ae07a93613da5d714c9d72db668e34b0b94a669c130e8eb031de5e38e748d7e33a79771266fb7bca7ba2221ff0c653e792ff4fa43c2215645562425" target="_blank"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fufh5p50tk0eqi5y4rv4n.png"></a>
+  <a href="https://dev.to/yagopeixinho/hello-world-mas-em-uma-web-api-com-net-8-1jp6-temp-slug-4672107?preview=3ae07a93613da5d714c9d72db668e34b0b94a669c130e8eb031de5e38e748d7e33a79771266fb7bca7ba2221ff0c653e792ff4fa43c2215645562425" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fufh5p50tk0eqi5y4rv4n.png"></a>
 </div>
 
 <br>
